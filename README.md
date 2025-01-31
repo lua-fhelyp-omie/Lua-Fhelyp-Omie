@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# 👋 Olá! Eu sou Luã Fhelyp 
+# 👋 Olá! Luã Fhelyp aqui
 
 💡 **Product Manager | Product Owner** especializado em **IA, Produtos Digitais, Analytics e Chatbots**.  
 💼 **Atualmente:** Product Owner na Omie, liderando o desenvolvimento de assistentes de IA, CRM e chatbots.  
