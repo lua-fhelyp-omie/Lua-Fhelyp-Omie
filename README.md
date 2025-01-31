@@ -3,7 +3,7 @@
 # 👋 Olá! Luã Fhelyp aqui
 
 💡 **Product Manager | Product Owner** especializado em **IA, Produtos Digitais, Analytics e Chatbots**.  
-💼 **Atualmente:** Product Owner na Omie, liderando o desenvolvimento de assistentes de IA, CRM e chatbots.  
+💼 **Atualmente:** Product Owner na Omie, liderando o desenvolvimento de agentes de IA, CRM e chatbots.  
 📍 **Localização:** Maceió, Alagoas, Brasil.  
 🎓 **Formação:** Psicologia (UFAL) | Pós-graduação em Product Management | MBA Executivo em Gestão da Inovação, Tecnologia e Empreendedorismo.  
 
