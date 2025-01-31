@@ -8,8 +8,7 @@
 🎓 **Formação:** Psicologia (UFAL) | Pós-graduação em Product Management | MBA Executivo em Gestão da Inovação, Tecnologia e Empreendedorismo.  
 
 ## 🚀 Sobre mim  
-Com mais de **10 anos de experiência**, atuando nas áreas de **operações, produtos digitais, contact center, CX e startups**.  
-Sou **orientado a dados**, com habilidades em **planejamento estratégico, liderança, pesquisa de mercado, design de soluções e priorização de backlog**. Minha abordagem une **discovery e delivery** para alinhar squads ágeis e garantir entregas de valor para o usuário.  
+Com mais de **10 anos de experiência**, atuando nas áreas de **operações, produtos digitais, contact center, CX e startups**. Sou **orientado a dados**, com habilidades em **planejamento estratégico, liderança, pesquisa de mercado, design de soluções e priorização de backlog**. Minha abordagem une **discovery e delivery** para alinhar squads ágeis e garantir entregas de valor para o usuário.  
 
 ## 🛠️ Tecnologias & Ferramentas  
 
